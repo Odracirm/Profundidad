@@ -24,7 +24,7 @@ Dado que me desplazo por las casillas según que letra sea posterior en el abece
 #### Solución:
 #### i => B => D => C => E => G => H => I => J => L => M => e  
 
-  ### PROFUNDIDAD CON LÍMITE
+### PROFUNDIDAD CON LÍMITE
 
 C \= {}                             F \= {i}  
 C \= {i} 					                  F \= {A, B}  
@@ -71,3 +71,14 @@ C \= {i, B, D, C, E, G, H, A, K, L, M, Ñ, e}
 
 #### Solución:
 #### i => A => K => L => M => Ñ => e
+
+### ANCHURA  
+
+C = {} 							                                  F = {i}  
+C = {i} 							                                F = {A, B}  
+C = {A, B} 						                                F = {C, D, E, F}  
+C = {A, B, C, D, E, F} 					                      F = {G, H}  
+C = {A, B, C, D, E, F, G, H} 				                  F = {I, J, K}  
+C = {A, B, C, D, E, F, G, H, I, J, K} 			          F = {L, M, N}  
+C = {A, B, C, D, E, F, G, H, I, J, K, L, M, N} 		    F = {Ñ, e, O}  
+C = {A, B, C, D, E, F, G, H, I, J, K, L, M, N, Ñ, e} 	
