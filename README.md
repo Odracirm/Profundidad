@@ -37,3 +37,7 @@ C \= {i, B, D, C, E, G, A}  		    F \= {F, H, I, J}
 C \= {i, B, D, C, E, G, A, J}  		  F \= {F, H, I, K}   
 C \= {i, B, D, C, E, G, A, J, K} 		F \= {F, H, I, L}  
 C \= {i, B, D, C, E, G, A, J, K, L} F \= {F, H, I, M, N}
+
+
+
+<img src="img/Captura_de_pantalla_de_2025-03-11_13-28-22.png" width="80%"/>
