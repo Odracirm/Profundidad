@@ -122,42 +122,42 @@ E = {0}
 F = {Ourense[0km]}
 
 E = {Ourense[0km]}  
-F = {Ponferrada[175km] (Ourense), Benavente[236km](Ourense)}
+F = {Ponferrada[175km] (Ourense), Benavente[236km] (Ourense)}
 
-E = {Ourense[0km], Ponferrada[175km](Ourense)}  
-F = {Benavente[236km](Ourense), León[288km](Ponferrada), Benavente[300km](Ponferrada)}
+E = {Ourense[0km], Ponferrada[175km] (Ourense)}  
+F = {Benavente[236km] (Ourense), León[288km] (Ponferrada), Benavente[300km] (Ponferrada)}
 
-E = {Ourense[0km], Ponferrada[175km](Ourense),Benavente[236km](Ourense)}  
-F = {León[288km](Ponferrada), León[311km](Benavente), Valladolid[348km](Benavente), Palencia[348km](Benavente)}
+E = {Ourense[0km], Ponferrada[175km] (Ourense),Benavente[236km] (Ourense)}  
+F = {León[288km] (Ponferrada), León[311km] (Benavente), Valladolid[348km] (Benavente), Palencia[348km] (Benavente)}
 
-E = {Ourense[0km], Ponferrada[175km](Ourense),Benavente[236km](Ourense), León[288km](Ponferrada)}  
-F = {Valladolid[348km](Benavente), Palencia[348km](Benavente), Osorno[401km](León)}
+E = {Ourense[0km], Ponferrada[175km] (Ourense),Benavente[236km] (Ourense), León[288km] (Ponferrada)}  
+F = {Valladolid[348km] (Benavente), Palencia[348km] (Benavente), Osorno[401km] (León)}
 
-E = {Ourense[0km], Ponferrada[175km](Ourense),Benavente[236km](Ourense), León[288km](Ponferrada), Valladolid[348km](Benavente)}  
-F = {Palencia[348km](Benavente), Osorno[401km](León), Aranda[443km](Valladolid)}
+E = {Ourense[0km], Ponferrada[175km] (Ourense),Benavente[236km] (Ourense), León[288km] (Ponferrada), Valladolid[348km] (Benavente)}  
+F = {Palencia[348km] (Benavente), Osorno[401km] (León), Aranda[443km] (Valladolid)}
 
-E = {Ourense[0km], Ponferrada[175km](Ourense),Benavente[236km](Ourense), León[288km](Ponferrada), Valladolid[348km](Benavente), Palencia[348km](Benavente)}  
-F = {Osorno[401km](León), Aranda[443km](Valladolid), Osorno[397km](Palencia), Burgos[440km](Palencia)}
+E = {Ourense[0km], Ponferrada[175km] (Ourense),Benavente[236km] (Ourense), León[288km] (Ponferrada), Valladolid[348km] (Benavente), Palencia[348km] (Benavente)}  
+F = {Osorno[401km] (León), Aranda[443km] (Valladolid), Osorno[397km] (Palencia), Burgos[440km] (Palencia)}
 
-E = {Ourense[0km], Ponferrada[175km](Ourense),Benavente[236km](Ourense), León[288km](Ponferrada), Valladolid[348km](Benavente), Palencia[348km](Benavente), Osorno[397km](Palencia)}  
-F = {Aranda[443km](Valladolid), Burgos[440km](Palencia), Burgos[456km](Osorno)}
+E = {Ourense[0km], Ponferrada[175km] (Ourense),Benavente[236km] (Ourense), León[288km] (Ponferrada), Valladolid[348km] (Benavente), Palencia[348km] (Benavente), Osorno[397km] (Palencia)}  
+F = {Aranda[443km] (Valladolid), Burgos[440km] (Palencia), Burgos[456km] (Osorno)}
 
-E = {Ourense[0km], Ponferrada[175km](Ourense),Benavente[236km](Ourense), León[288km](Ponferrada), Valladolid[348km](Benavente), Palencia[348km](Benavente), Osorno[397km](Palencia), Burgos[440km](Palencia)}  
-F = {Aranda[443km](Valladolid), Aranda[524km](Burgos), Soria[583km](Burgos), Logroño[590km](Burgos)}
+E = {Ourense[0km], Ponferrada[175km] (Ourense),Benavente[236km] (Ourense), León[288km] (Ponferrada), Valladolid[348km] (Benavente), Palencia[348km] (Benavente), Osorno[397km] (Palencia), Burgos[440km] (Palencia)}  
+F = {Aranda[443km] (Valladolid), Aranda[524km] (Burgos), Soria[583km] (Burgos), Logroño[590km] (Burgos)}
 
-E = {Ourense[0km], Ponferrada[175km](Ourense),Benavente[236km](Ourense), León[288km](Ponferrada), Valladolid[348km](Benavente), Palencia[348km](Benavente), Osorno[397km](Palencia), Burgos[440km](Palencia), Aranda[443km](Valladolid)}  
-F = {Soria[583km](Burgos), Logroño[590km](Burgos), Osma[501km](Aranda)}
+E = {Ourense[0km], Ponferrada[175km] (Ourense),Benavente[236km] (Ourense), León[288km] (Ponferrada), Valladolid[348km] (Benavente), Palencia[348km] (Benavente), Osorno[397km] (Palencia), Burgos[440km] (Palencia), Aranda[443km] (Valladolid)}  
+F = {Soria[583km] (Burgos), Logroño[590km] (Burgos), Osma[501km] (Aranda)}
 
-E = {Ourense[0km], Ponferrada[175km](Ourense),Benavente[236km](Ourense), León[288km](Ponferrada), Valladolid[348km](Benavente), Palencia[348km](Benavente), Osorno[397km](Palencia), Burgos[440km](Palencia), Aranda[443km](Valladolid), Osma[501km](Aranda)}  
-F = {Soria[583km](Burgos), Logroño[590km](Burgos), Calatayud[641km](Osma), Soria[559km](Osma)}
+E = {Ourense[0km], Ponferrada[175km] (Ourense),Benavente[236km] (Ourense), León[288km] (Ponferrada), Valladolid[348km] (Benavente), Palencia[348km] (Benavente), Osorno[397km] (Palencia), Burgos[440km] (Palencia), Aranda[443km] (Valladolid), Osma[501km] (Aranda)}  
+F = {Soria[583km] (Burgos), Logroño[590km] (Burgos), Calatayud[641km] (Osma), Soria[559km] (Osma)}
 
-E = {Ourense[0km], Ponferrada[175km](Ourense),Benavente[236km](Ourense), León[288km](Ponferrada), Valladolid[348km](Benavente), Palencia[348km](Benavente), Osorno[397km](Palencia), Burgos[440km](Palencia), Aranda[443km](Valladolid), Osma[501km](Aranda), Soria[559km](Osma)}  
-F = {Logroño[590km](Burgos), Calatayud[641km](Osma), Calatayud[650km](Soria)}
+E = {Ourense[0km], Ponferrada[175km] (Ourense),Benavente[236km] (Ourense), León[288km] (Ponferrada), Valladolid[348km] (Benavente), Palencia[348km] (Benavente), Osorno[397km] (Palencia), Burgos[440km] (Palencia), Aranda[443km] (Valladolid), Osma[501km] (Aranda), Soria[559km] (Osma)}  
+F = {Logroño[590km] (Burgos), Calatayud[641km] (Osma), Calatayud[650km] (Soria)}
 
-E = {Ourense[0km], Ponferrada[175km](Ourense),Benavente[236km](Ourense), León[288km](Ponferrada), Valladolid[348km](Benavente), Palencia[348km](Benavente), Osorno[397km](Palencia), Burgos[440km](Palencia), Aranda[443km](Valladolid), Osma[501km](Aranda), Soria[559km](Osma), Logroño[590km](Burgos)}  
-F = {Calatayud[641km](Osma), Calatayud[650km](Soria)}
+E = {Ourense[0km], Ponferrada[175km] (Ourense),Benavente[236km] (Ourense), León[288km] (Ponferrada), Valladolid[348km] (Benavente), Palencia[348km] (Benavente), Osorno[397km] (Palencia), Burgos[440km] (Palencia), Aranda[443km] (Valladolid), Osma[501km] (Aranda), Soria[559km] (Osma), Logroño[590km] (Burgos)}  
+F = {Calatayud[641km] (Osma), Calatayud[650km] (Soria)}
 
-E = {Ourense[0km], Ponferrada[175km](Ourense),Benavente[236km](Ourense), León[288km](Ponferrada), Valladolid[348km](Benavente), Palencia[348km](Benavente), Osorno[397km](Palencia), Burgos[440km](Palencia), Aranda[443km](Valladolid), Osma[501km](Aranda), Soria[559km](Osma), Logroño[590km](Burgos), Calatayud[641km](Osma)}
+E = {Ourense[0km], Ponferrada[175km] (Ourense),Benavente[236km] (Ourense), León[288km] (Ponferrada), Valladolid[348km] (Benavente), Palencia[348km] (Benavente), Osorno[397km ] (Palencia), Burgos[440km] (Palencia), Aranda[443km] (Valladolid), Osma[501km] (Aranda), Soria[559km] (Osma), Logroño[590km] (Burgos), Calatayud[641km] (Osma)}
 
 
 
