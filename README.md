@@ -122,7 +122,7 @@ E = {0}
 F = {Ourense[0km]}
 
 E = {Ourense[0km]}  
-F = {Ponferrada[175km](Ourense), Benavente[236km](Ourense)}
+F = {Ponferrada[175km] (Ourense), Benavente[236km](Ourense)}
 
 E = {Ourense[0km], Ponferrada[175km](Ourense)}  
 F = {Benavente[236km](Ourense), León[288km](Ponferrada), Benavente[300km](Ponferrada)}
