@@ -83,3 +83,5 @@ C \= {A, B, C, D, E, F, G, H, I, J, K} 			           F \= {L, M, N}
 C \= {A, B, C, D, E, F, G, H, I, J, K, L, M, N}        F \= {Ñ, e, O}  
 C \= {A, B, C, D, E, F, G, H, I, J, K, L, M, N, Ñ, e} 	
 
+<img src="img/Captura de pantalla de 2025-03-11 13-24-38.png" width="80%"/>
+
