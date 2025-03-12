@@ -62,3 +62,8 @@ C \= {i, B, D, C, E, G, H, A, K, L}  		      F \= {F, I, J, M}
 C \= {i, B, D, C, E, G, H, A, K, L, M}  		  F \= {F, I, J, N, Ñ}  
 C \= {i, B, D, C, E, G, H, A, K, L, M, Ñ} 	  F \= {F, I, J, N, O, e}  
 C \= {i, B, D, C, E, G, H, A, K, L, M, Ñ, e}
+
+
+
+<img src="img/Captura de pantalla de 2025-03-11 13-28-57.png" width="80%"/>
+
