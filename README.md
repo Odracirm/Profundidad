@@ -44,8 +44,8 @@ C \= {i, B, D, C, E, G, A, J, K, L} F \= {F, H, I, M, N}
 
 <img src="img/Captura de pantalla de 2025-03-11 13-28-41.png" width="80%"/>
 
-Primero voy por B, pero alcanzo el límite 5 cuando llego a G, asi que continuo por A, pero al llegar a N alcanzo otra vez el límite.
-Tipo de fracaso: Valor de corte.
+Primero voy por B, pero alcanzo el límite 5 cuando llego a G, asi que continuo por A, pero al llegar a N alcanzo otra vez el límite.  
+Tipo de fracaso: Valor de corte.  
 Si el límite fuera 6, entonces llegaría hasta el objetivo e.
 
 C \= {} 						                          F \= {i}  
