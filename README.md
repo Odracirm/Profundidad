@@ -118,7 +118,7 @@ C \= {A, B, C, D, E, F, G, H, I, J, K, L, M, N, Ñ, e}
 | Soria, Calatayud    | 91                  |
 
 
-E = {0}
+E = {0}  
 F = {Ourense[0km]}
 
 E = {Ourense[0km]}
