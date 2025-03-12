@@ -22,7 +22,7 @@ C \= {i, B, D, C, E, G, H, I, J, L, M}	F \= {A, F, K, N, e}
 Dado que me desplazo por las casillas según que letra sea posterior en el abecedario, el algoritmo que utilizo es un algoritmo LIFO (Last In, First Out).
 
 #### Solución:
-#### i => B => D => C => E => G => H => I => J => L => M => e    
+#### i => B => D => C => E => G => H => I => J => L => M => e               
 
 ### PROFUNDIDAD CON LÍMITE
 
