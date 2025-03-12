@@ -1,3 +1,5 @@
+  ### PROFUNDIDAD
+
 C \= {} 					                      F \= {i}  
 C \= {i} 					                      F \= {A, B}  
 C \= {i, B} 				                    F \= {A, C, D}  
@@ -21,8 +23,8 @@ Dado que me desplazo por las casillas según que letra sea posterior en el abece
 
 Solución:
 i => B => D => C => E => G => H => I => J => L => M => e  
-### PROFUNDIDAD CON LÍMITE
 
+### PROFUNDIDAD CON LÍMITE
 
 C \= {}   					                F \= {i}  
 C \= {i} 					                  F \= {A, B}  
