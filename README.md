@@ -74,7 +74,7 @@ C \= {i, B, D, C, E, G, H, A, K, L, M, Ñ, e}
 
 ### ANCHURA  
 
-C \= {} 							                                  F = {i}  
+C \= {} 							                                F \\\\= {i}  
 C = {i} 							                                F = {A, B}  
 C = {A, B} 						                                F = {C, D, E, F}  
 C = {A, B, C, D, E, F} 					                      F = {G, H}  
