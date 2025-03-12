@@ -162,3 +162,6 @@ E = {Ourense[0km], Ponferrada[175km] (Ourense),Benavente[236km] (Ourense), León
 
 
 <img src="img/Captura de pantalla de 2025-03-11 13-25-41.png" width="60%"/>
+
+#### Solución:
+#### Ourense => Benavente => Valladolid => Aranda => Osma => Calatayud
