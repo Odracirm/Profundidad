@@ -42,4 +42,4 @@ C \= {i, B, D, C, E, G, A, J, K, L} F \= {F, H, I, M, N}
 
 <img src="img/Captura de pantalla de 2025-03-11 13-28-22.png" width="80%"/>
 
-<img src="img/Captura de pantalla de 2025-03-11 13-28-41.png" width="80%"/>
+<img src="img/Captura de pantalla de 2025-03-11 13-28-41.png" width="60%"/>
