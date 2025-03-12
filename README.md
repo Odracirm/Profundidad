@@ -85,3 +85,7 @@ C \= {A, B, C, D, E, F, G, H, I, J, K, L, M, N, Ñ, e}
 
 <img src="img/Captura de pantalla de 2025-03-11 13-24-38.png" width="80%"/>
 
+<img src="img/Captura de pantalla de 2025-03-11 13-25-23.png" width="80%"/>
+
+#### Solución:  
+#### i => A => D => G => I => M => e  
