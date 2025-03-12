@@ -24,7 +24,7 @@ i => B => D => C => E => G => H => I => J => L => M => e
 PROFUNDIDAD CON LÍMITE
 
 
-C \= {} 					                  F \= {i}  
+C \= {}   					                  F \= {i}  
 C \= {i} 					                  F \= {A, B}  
 C \= {i, B} 				                F \= {A, C, D}  
 C \= {i, B, D} 				              F \= {A, C}  
