@@ -67,3 +67,4 @@ C \= {i, B, D, C, E, G, H, A, K, L, M, Ñ, e}
 
 <img src="img/Captura de pantalla de 2025-03-11 13-28-57.png" width="80%"/>
 
+<img src="img/Captura de pantalla de 2025-03-11 13-29-17.png" width="80%"/>
