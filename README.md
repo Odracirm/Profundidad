@@ -1,4 +1,4 @@
-  ### PROFUNDIDAD
+### PROFUNDIDAD
 
 C \= {} 					                      F \= {i}  
 C \= {i} 					                      F \= {A, B}  
