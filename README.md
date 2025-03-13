@@ -212,4 +212,6 @@ F = {5H510(E), 8L210(K), 9e09(K)}
 
 C = {0i44, 1A34(i), 3C25(A), 1B56(i), 3D47(A), 3E47(B), 4G37(D), 5I27(G), 7K18(I), 3F69(B), 6J39(I), 9e09(K)}
 
-<img src="img/Captura de pantalla de 2025-03-11 13-26-04.png" width="60%"/>
+<img src="img/Captura de pantalla de 2025-03-11 13-26-04.png" width="80%"/>
+
+
