@@ -1,5 +1,5 @@
 ### PROFUNDIDAD
-<div style="display:flex; gap:50px">
+<div style="display:flex; gap:1px">
     <p>C = {}</p>
     <p>F = {i}</p>
 </div>
