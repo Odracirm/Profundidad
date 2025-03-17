@@ -168,6 +168,19 @@ E = {Ourense[0km], Ponferrada[175km] (Ourense),Benavente[236km] (Ourense), León
 
 ### A / A*
 
+<img src="img/Captura de pantalla de 2025-03-17 09-09-25.png" width="60%"/>
+
+
+
+
+
+
+
+
+
+
+
+
 gihf
 
 f = función evaluación
