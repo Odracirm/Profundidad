@@ -184,6 +184,10 @@ La heurística utilizada en el algoritmo A es admisible, ya que el valor de la h
 
 ### TOKYO TUB: TATSUMI -> OTEMACHI
 
+<img src="img/Captura de pantalla de 2025-03-17 09-38-46.png" width="60%"/>
+<img src="img/Captura de pantalla de 2025-03-17 09-39-06.png" width="60%"/>
+<img src="img/Captura de pantalla de 2025-03-17 09-39-33.png" width="60%"/>
+
 
 gY23hf
 
