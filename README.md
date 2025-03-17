@@ -172,60 +172,6 @@ E = {Ourense[0km], Ponferrada[175km] (Ourense),Benavente[236km] (Ourense), León
 <img src="img/Captura de pantalla de 2025-03-17 09-23-27.png" width="70%"/>
 
 
-
-
-
-
-
-
-
-
-
-
-gihf
-
-f = función evaluación
-g = coste (diferencia) de ir desde el estado inicial hasta el actual
-h = heurística: estimación del costo de ir del estado actual a la solución
-
-C = {} 					
-F = {0i44}  
-
-C = {0i44}				
-F = {1A34(i), 1B56(i)}  
-
-C = {0i44, 1A34(i)}			
-F = {1B56(i), 3C25(A), 3D47(A)}  
-
-C = {0i44, 1A34(i), 3C25(A)}		
-F = {1B56(i), 3D47(A)}  
-
-C = {0i44, 1A34(i), 3C25(A), 1B56(i)}	
-F = {3D47(A), 3E47(B), 3F69(B)}  
-
-C = {0i44, 1A34(i), 3C25(A), 1B56(i), 3D47(A)}	
-F = {3E47(B), 3F69(B), 4G37(D)}  
-
-C = {0i44, 1A34(i), 3C25(A), 1B56(i), 3D47(A), 3E47(B)}	
-F = {3F69(B), 4G37(D), 5H510(E)}  
-
-C = {0i44, 1A34(i), 3C25(A), 1B56(i), 3D47(A), 3E47(B), 4G37(D)}	
-F = {3F69(B), 5H510(E), 5I27(G)}  
-
-C = {0i44, 1A34(i), 3C25(A), 1B56(i), 3D47(A), 3E47(B), 4G37(D), 5I27(G)}	
-F = {3F69(B), 5H510(E), 6J39(I), 7K18(I)}  
-
-C = {0i44, 1A34(i), 3C25(A), 1B56(i), 3D47(A), 3E47(B), 4G37(D), 5I27(G), 7K18(I)}	
-F = {3F69(B), 5H510(E), 6J39(I), 8L210(K), 9e09(K)}  
-
-C = {0i44, 1A34(i), 3C25(A), 1B56(i), 3D47(A), 3E47(B), 4G37(D), 5I27(G), 7K18(I), 3F69(B)}	
-F = {5H510(E), 6J39(I), 8L210(K), 9e09(K)}  
-
-C = {0i44, 1A34(i), 3C25(A), 1B56(i), 3D47(A), 3E47(B), 4G37(D), 5I27(G), 7K18(I), 3F69(B), 6J39(I)}	
-F = {5H510(E), 8L210(K), 9e09(K)}  
-
-C = {0i44, 1A34(i), 3C25(A), 1B56(i), 3D47(A), 3E47(B), 4G37(D), 5I27(G), 7K18(I), 3F69(B), 6J39(I), 9e09(K)}
-
 <img src="img/Captura de pantalla de 2025-03-11 13-26-04.png" width="80%"/>
 
 <img src="img/Captura de pantalla de 2025-03-11 13-26-22.png" width="60%"/>
